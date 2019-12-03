@@ -1,48 +1,52 @@
 4+ years experience In RPA(Uipath(2 years),Automation anywhere (1 year),Excel macros(1 year))
 
-Degined and Implemented end to end RPA solutions  based on the technicality of the process, business objectives and Client requirements
+Degined and Implemented end to end RPA solutions  based on the technicality of the process, business objectives and Client requirements.
+
+Took ownership  of for several process and worked on every step in the RPA life cycle strating form Assement and preparing Cost benefit analysis 
+to caluculate ROI to movind the process to production and giving production support.
+
+Certified with UIPath RPA Advance certificate and Automation Anywhere RPA Professional.
 
 
-Worked on desktop,excel and web autotomation
+Capex Process:sept to till now
 
-Certified with UIPath RPA Advance certificate and Automation Anywhere RPA Professional
+The Bot reviews the capex vouchers approved by accounts payables team for accurate asset categorization and feeds them to asset management module in people soft ESA after necessary changes
 
-Capex Process:
+This process is a combination of Excel,web automation.
+Used VB.net code for excel activities hear to save the bot running Time.
 
-combination of Excel,web automation
-used VB.net code for excel activities to save the bot running Time.
+Role:Solution design,devlopment,UAT,Prod movement,Prod support
 
 
-Internal Invoice Circulation Process
+
+Internal Invoice Circulation Process may to aug
 
 The bot will download invoices generated in a portal and sends mail to respective PMs.
 
 Used RE framework to get trasactions from the orchestrator queue,process the trasaction and update the queue line item appropriately
 
-combination of excel and web automation
+This process is a combination of excel and web automation
 
 Data for each trasactions was stored in SQL Data base for analysis
 
 
-
 Role:Solution design,devlopment,UAT,Prod movement,Prod support
 
 
 
-External invoice Circulation process
+External invoice Circulation process jan to april
 
 
-The bot as to read the mails and download the invoices which were given in the mail body and circulate to the vendors.
+The bot as to read the mails(Structured data) and download the invoices which were given in the mail body and circulate to the vendors.
 
-used RE frame work for this.
+Used RE frame work for this.
 
-combination of excel and web automation
-
+This process is a combination of excel and web automation
 
 Role:Solution design,devlopment,UAT,Prod movement,Prod support
 
 
-Startandschedulebot:
+Startandschedulebot:nov to dec
 
 The bot will read the mails sent by the business users and schedule or start the bots as per the mail subject.
 
@@ -51,9 +55,9 @@ Used orchetrator API calls to login to orchestrator and start or schedule the bo
 Role: Developer
 
 
-Assignments:
+Assignments: jan 2017 to dec 2017
 
-Assigning Associates to repective projects after respective approvals.
+
 
 used AA for this process
 
